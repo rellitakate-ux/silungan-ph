@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@theme {
+  --color-purple-primary: #7C5CFC;
+  --color-violet-deep: #4C3575;
+  --color-lavender-accent: #C8B6FF;
+  --color-lavender-pale: #F2EDFF;
+  --color-canvas-light: #FAF9FC;
+  --color-ink-dark: #24202B;
+
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-display: "Cinzel", serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-canvas-light);
+    color: var(--color-ink-dark);
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3, .font-serif-heading {
+    font-family: var(--font-serif);
+  }
+}
+
+/* Subtle Philippine Weave Pattern Accent */
+.bg-ph-pattern {
+  background-image: radial-gradient(rgba(124, 92, 252, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+

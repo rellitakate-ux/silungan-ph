@@ -1,0 +1,6 @@
+{
+  "name": "SILUNGAN PH",
+  "description": "Critical Exploration and Creative Presentation of Gender Roles in the Philippine Context",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

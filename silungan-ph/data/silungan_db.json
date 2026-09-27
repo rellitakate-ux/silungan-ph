@@ -1,0 +1,110 @@
+{
+  "posts": [
+    {
+      "id": "post-1",
+      "title": "Pwede bang umiyak ang lalaki nang hindi tinatawag na mahina?",
+      "author": "Anonymous Kapwa",
+      "isAnonymous": true,
+      "category": "Personal Experiences",
+      "content": "Buong buhay ko, ang turo sa akin ng tatay ko ay bawal umiyak ang lalaki dahil \"nakakahiya sa kapitbahay.\" Ngayong 21 na ako at nag-aaral sa kolehiyo habang nagtatrabaho, madalas akong atakihin ng matinding anxiety. Noong sinubukan kong mag-open up sa mga kabarkada ko, tinawanan lang ako at sinabing \"inom na lang natin yan, pare.\" Kailan ba magiging normal para sa aming mga lalaki ang maging tao?",
+      "createdAt": "2026-09-14T14:32:00.000Z",
+      "listeningCount": 42,
+      "reportCount": 0,
+      "replies": [
+        {
+          "id": "rep-1",
+          "author": "Anonymous Ate",
+          "isAnonymous": true,
+          "content": "Valid ang nararamdaman mo. Ang pag-iyak ay biological response sa sakit at pagod, hindi kahinaan. Saludo ako sa tapang mo na aminin yan. Huwag mong kimkimin; may mga taong handang makinig nang walang panunukso.",
+          "createdAt": "2026-09-14T15:10:00.000Z"
+        },
+        {
+          "id": "rep-2",
+          "author": "Anonymous Peer",
+          "isAnonymous": true,
+          "content": "Salamat sa pagbabahagi nito, kapatid. Isa sa pinakamalaking suliranin ang toxic machismo na nagpapahirap sa mental health ng mga kalalakihan. Karapatan mong maging vulnerable at maghilom.",
+          "createdAt": "2026-09-14T16:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "title": "Bakit laging si Ate ang inaasahang magparaya sa gastusin ng pamilya?",
+      "author": "Anonymous Panganay",
+      "isAnonymous": true,
+      "category": "Family",
+      "content": "Bilang panganay na babae, ako ang naging breadwinner matapos mag-retire ng mga magulang ko. Pero napapansin ko, yung bunsong kapatid namin na lalaki, pinapayagang tumambay maghapon dahil \"lalaki yan, mahirap pilitin.\" Samantalang ako, bawal magpahinga o mag-ipon para sa sarili kong buhay. Normal ba itong gendered burden sa ating mga pamilyang Pilipino?",
+      "createdAt": "2026-09-19T09:15:00.000Z",
+      "listeningCount": 56,
+      "reportCount": 0,
+      "replies": [
+        {
+          "id": "rep-3",
+          "author": "Anonymous Kapwa",
+          "isAnonymous": true,
+          "content": "Napakakaraniwan nito sa ating kultura. Tawag dyan ay \"Eldest Daughter Syndrome\" na pinalala pa ng patriyarkal na pagpapalaki kung saan binubusog ang mga lalaki sa pribilehiyo habang sinasanay ang mga kababaihan sa sakripisyo. Magtakda ng boundaries; karapatan mong mabuhay para sa sarili mo.",
+          "createdAt": "2026-09-19T10:45:00.000Z"
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "art-1",
+      "title": "Ang Muling Pagbangon ng Babaylan: Reclaiming the Autonomous Spirit",
+      "slug": "muling-pagbangon-ng-babaylan",
+      "excerpt": "Exploring how pre-colonial spiritual leadership was silenced under colonial rule, and how modern Filipinas and queer scholars are reviving the Babaylan philosophy today.",
+      "author": "De Dios, Sharah",
+      "authorRole": "Archival Historian & Researcher",
+      "date": "September 2026",
+      "readTime": "6 min read",
+      "category": "History",
+      "coverImage": "/src/assets/images/babaylan_history_1790484618774.jpg",
+      "quoteHighlight": "Ang Babaylan ay hindi lamang relic ng lumipas; ito ay buhay na pilosopiya ng pakikipagkapwa, paghilom, at pagkilala sa lakas ng babae at queer sa lipunan.",
+      "content": [
+        "Bago pa man dumating ang mga galyon ng Espanya sa ating mga baybayin noong 1521, mayroon nang maunlad at pantay na sibilisasyon sa kapuluan ng Pilipinas. Sa gitna ng ating mga komunidad ay hindi hari o pari, kundi ang Babaylan—mga babae at Asog (mga lalaking nagdadamit at namumuhay bilang babae) na nagsilbing tagapamagitan sa kalikasan, mga manggagamot, at tagapagtago ng kasaysayan.",
+        "Nang ipataw ng mga mananakop ang kanilang sistemang patriyarkal, ang mga Babaylan ay pinaratangang mga \"bruha\" (mangkukulam) at \"alagad ng demonyo.\" Winasak ang kanilang mga dambana at sapilitang ipinasok ang mga kababaihan sa loob ng tahanan at beaterio. Ang dating tagapamuno ng komunidad ay naging sunud-sunurang anino sa ilalim ng kapangyarihan ng kura at ng asawang lalaki.",
+        "Ngunit hindi namatay ang apoy ng Babaylan. Sa kasalukuyan, makikita natin ang kanilang diwa sa mga kababaihang siyentipiko, mga lider-magsasaka, at mga tagapagtanggol ng karapatang pantao. Sa pagbabalik-tanaw sa ating kasaysayan, nauunawaan natin na ang pagkakapantay-pantay ng kasarian ay hindi dayuhang kaisipan—ito ay ating sariling pinagmulan na ninakaw lamang ng kolonisasyon."
+      ],
+      "status": "published"
+    },
+    {
+      "id": "art-2",
+      "title": "The Myth of Maria Clara: Deconstructing the \"Ideal\" Filipina",
+      "slug": "myth-of-maria-clara",
+      "excerpt": "Jose Rizal created Maria Clara as a tragic critique of colonial oppression, yet Philippine society turned her into an oppressive moral cage for generations of women.",
+      "author": "Cabacang, Mary Faith",
+      "authorRole": "Lead Sociological Analyst",
+      "date": "September 2026",
+      "readTime": "7 min read",
+      "category": "Culture",
+      "coverImage": "/src/assets/images/contemporary_filipino_roles_1790484629615.jpg",
+      "quoteHighlight": "Maria Clara was never written to be a trophy of modesty; she was Rizal’s tragic witness to a society held hostage by clerical and patriarchal dominance.",
+      "content": [
+        "For over a century, the phrase \"parang Maria Clara\" has been used in Philippine society as the ultimate praise for female virtue: soft-spoken, religious, obedient, modestly covered, and perpetually willing to endure suffering in silence. But a critical reading of Jose Rizal’s Noli Me Tangere reveals a starkly different reality.",
+        "Rizal did not write Maria Clara to be a blueprint of ideal womanhood. She was an illegitimate child born of rape and clerical corruption, torn between her love and her religious vows, eventually driven into the convent where she was driven insane. She was a tragic symbol of a victimized motherland, not a celebratory ideal of passivity.",
+        "When society canonized her as the standard for Filipino women, it effectively codified compliance. Women were told that assertiveness is unladylike, anger is scandalous, and sacrifice is the highest calling. Today, deconstructing the Maria Clara myth is vital to liberating Filipinas from unrealistic expectations of moral perfection."
+      ],
+      "status": "published"
+    },
+    {
+      "id": "art-3",
+      "title": "Tutok Tatay: Evolving Masculinities and the Philippine Fatherhood Shift",
+      "slug": "tutok-tatay-evolving-masculinity",
+      "excerpt": "Moving away from the distant \"Padre de Pamilya\" archetype toward affectionate, hands-on nurturing among contemporary millennial and Gen Z Filipino fathers.",
+      "author": "Villanueve, Russell Athan",
+      "authorRole": "Gender & Youth Researcher",
+      "date": "September 2026",
+      "readTime": "5 min read",
+      "category": "Family",
+      "coverImage": "/src/assets/images/editorial_story_silong_tala_1790484643224.jpg",
+      "quoteHighlight": "True fatherhood is not marked by stoic silence or economic dominance; it is measured by presence, vulnerability, and shared domestic responsibility.",
+      "content": [
+        "Growing up in traditional Filipino households, fathers were often characterized by their absence or their intimidating authority. The \"Padre de Pamilya\" was the disciplinarian who sat at the head of the table, whose presence commanded silence, and whose tears were never seen.",
+        "This emotional distance came at a profound cost to Filipino men, reinforcing toxic ideas that vulnerability is weakness. Today, an inspiring counter-culture is blooming in the Philippines: \"Tutok Tatay\" (Hands-on Dads). Millennial and Gen Z fathers are changing diapers, preparing school baon, attending parent-teacher conferences, and showing affection without shame.",
+        "This shift does not diminish masculinity; it enriches it. When fathers participate equally in childcare and domestic chores, they alleviate the double burden carried by mothers and raise children who view emotional expression as healthy human nature."
+      ],
+      "status": "published"
+    }
+  ]
+}
